@@ -1,0 +1,19 @@
+{
+  "posts": [
+    { "id": 1, "title": "Mogri", "thumbnailUrl": "https:\/\/anoopam.org\/wp-content\/uploads\/2025\/06\/td-mogri-2025-jun-12-01.jpg" },
+    { "id": 2, "title": "UK", "thumbnailUrl": "https:\/\/anoopam.org\/wp-content\/uploads\/2025\/06\/td-uk-2025-jun-12-01.jpg" },
+    { "id": 3, "title": "Allentown", "thumbnailUrl": "https:\/\/anoopam.org\/wp-content\/uploads\/2025\/06\/3L4A3160.jpg" }
+  ],
+  "comments": [
+    { "id": 1, "imageUrl": "https:\/\/anoopam.org\/wp-content\/uploads\/2025\/06\/td-mogri-2025-jun-12-01.jpg","country": "India","state":"Mogri","lastUpdatedTimestamp":"12th June 2025", "postId": 1 },
+    { "id": 2, "imageUrl": "https:\/\/anoopam.org\/wp-content\/uploads\/2025\/06\/td-mogri-2025-jun-12-02.jpg","country": "India","state":"Mogri","lastUpdatedTimestamp":"12th June 2025", "postId": 1 },
+    { "id": 3, "imageUrl": "https:\/\/anoopam.org\/wp-content\/uploads\/2025\/06\/td-mogri-2025-jun-12-03.jpg","country": "India","state":"Mogri","lastUpdatedTimestamp":"12th June 2025", "postId": 1 },
+    { "id": 4, "imageUrl": "https:\/\/anoopam.org\/wp-content\/uploads\/2025\/06\/td-uk-2025-jun-12-01.jpg","country": "UK","state":"Denham","lastUpdatedTimestamp":"12th June 2025", "postId": 2 },
+    { "id": 5, "imageUrl": "https:\/\/anoopam.org\/wp-content\/uploads\/2025\/06\/td-uk-2025-jun-12-02.jpg","country": "UK","state":"Denham","lastUpdatedTimestamp":"12th June 2025", "postId": 2 },
+    { "id": 6, "imageUrl": "https:\/\/anoopam.org\/wp-content\/uploads\/2025\/06\/td-uk-2025-jun-12-03.jpg","country": "UK","state":"Denham","lastUpdatedTimestamp":"12th June 2025", "postId": 2 },
+    { "id": 7, "imageUrl": "https:\/\/anoopam.org\/wp-content\/uploads\/2025\/06\/3L4A3160.jpg","country": "PA","state":"Allentown","lastUpdatedTimestamp":"12th June 2025", "postId": 3},
+    { "id": 8, "imageUrl": "https:\/\/anoopam.org\/wp-content\/uploads\/2025\/06\/3L4A3158.jpg","country": "PA","state":"Allentown","lastUpdatedTimestamp":"12th June 2025", "postId": 3},
+    { "id": 9, "imageUrl": "https:\/\/anoopam.org\/wp-content\/uploads\/2025\/06\/3L4A3159.jpg","country": "PA","state":"Allentown","lastUpdatedTimestamp":"12th June 2025", "postId": 3}
+  ],
+  "profile": { "name": "typicode" }
+}
