@@ -9,7 +9,7 @@
   ],
   "comments": [
     { "id": 1, "imageUrl": "https://anoopam.org/wp-content/uploads/2025/06/wp-mob-2025-jun-01.jpg","country": "India","state":"Mogri","lastUpdatedTimestamp":"12/06/2025", "postId": 1 },
-    { "id": 2, "imageUrl": "https://anoopam.org/wp-content/uploads/2025/06/wp-mob-2025-jun-02.jpg","country": "India","state":"Mogri","lastUpdatedTimestamp":"12/06/2025", "postId": 1 },
+    { "id": 2, "imageUrl": "https://anoopam.org/wp-content/uploads/2025/06/wp-mob-2025-jun-02.jpg","country": "India","state":"Mathura","lastUpdatedTimestamp":"12/06/2025", "postId": 1 },
     { "id": 3, "imageUrl": "https://anoopam.org/wp-content/uploads/2025/06/wp-mob-2025-jun-03.jpg","country": "India","state":"Mogri","lastUpdatedTimestamp":"12/06/2025", "postId": 1 },
     { "id": 4, "imageUrl": "https://anoopam.org/wp-content/uploads/2025/03/pg-sbs-bhagatji-maharaj-197-pragatya-2025-mar-13-02.jpg","country": "UK","state":"Denham","lastUpdatedTimestamp":"12/06/2025", "postId": 2 },
     { "id": 5, "imageUrl": "https://anoopam.org/wp-content/uploads/2025/03/pg-sbs-bhagatji-maharaj-197-pragatya-2025-mar-13-03.jpg","country": "UK","state":"Denham","lastUpdatedTimestamp":"12/06/2025", "postId": 2 },
@@ -18,13 +18,13 @@
     { "id": 8, "imageUrl": "https://anoopam.org/wp-content/uploads/2025/05/ev-patotsav-2025-may-14-surat-01.jpg","country": "India","state":"Surat","lastUpdatedTimestamp":"14/05/2025", "postId": 4},
     { "id": 9, "imageUrl": "https://anoopam.org/wp-content/uploads/2025/05/ev-patotsav-2025-may-14-surat-02.jpg","country": "India","state":"Surat","lastUpdatedTimestamp":"14/05/2025", "postId": 4},
     { "id": 10, "imageUrl": "https://anoopam.org/wp-content/uploads/2025/05/ev-patotsav-2025-may-14-surat-03.jpg","country": "India","state":"Surat","lastUpdatedTimestamp":"14/05/2025", "postId": 4},
-    { "id": 11, "imageUrl": "https://anoopam.org/wp-content/uploads/2025/06/Upasna-0731.jpg","country": "PA","state":"Allentown","lastUpdatedTimestamp":"12/10/2024", "postId": 5},
-    { "id": 12, "imageUrl": "https://picsum.photos/id/1015/400/300","country": "PA","state":"Allentown","lastUpdatedTimestamp":"12/10/2024", "postId": 5},
-    { "id": 13, "imageUrl": "https://placekitten.com/400/300","country": "PA","state":"Allentown","lastUpdatedTimestamp":"12/10/2024", "postId": 5},
+    { "id": 11, "imageUrl": "https://anoopam.org/wp-content/uploads/2025/06/Upasna-0731.jpg","country": "USA","state":"California","lastUpdatedTimestamp":"12/10/2024", "postId": 5},
+    { "id": 12, "imageUrl": "https://picsum.photos/id/1015/400/300","country": "USA","state":"PA","lastUpdatedTimestamp":"12/10/2024", "postId": 5},
+    { "id": 13, "imageUrl": "https://placekitten.com/400/300","country": "USA","state":"PA","lastUpdatedTimestamp":"12/10/2024", "postId": 5},
     { "id": 14, "imageUrl": "https://anoopam.org/wp-content/uploads/2025/06/td-mogri-2025-jun-16-01.jpg","country": "India","state":"Mogri","lastUpdatedTimestamp":"12/06/2025", "postId": 6},
-    { "id": 15, "imageUrl": "https://anoopam.org/wp-content/uploads/2025/06/td-mogri-2025-jun-16-02.jpg","country": "India","state":"Mogri","lastUpdatedTimestamp":"12/06/2025", "postId": 6},
-    { "id": 16, "imageUrl": "https://anoopam.org/wp-content/uploads/2025/06/td-mogri-2025-jun-16-03.jpg","country": "India","state":"Mogri","lastUpdatedTimestamp":"12/06/2025", "postId": 6},
-    { "id": 17, "imageUrl": "https://anoopam.org/wp-content/uploads/2025/06/td-mogri-2025-jun-16-04.jpg","country": "India","state":"Mogri","lastUpdatedTimestamp":"12/06/2025", "postId": 6},
+    { "id": 15, "imageUrl": "https://anoopam.org/wp-content/uploads/2025/06/td-mogri-2025-jun-16-02.jpg","country": "India","state":"Mathura","lastUpdatedTimestamp":"12/06/2025", "postId": 6},
+    { "id": 16, "imageUrl": "https://anoopam.org/wp-content/uploads/2025/06/td-mogri-2025-jun-16-03.jpg","country": "India","state":"Vrundavan","lastUpdatedTimestamp":"12/06/2025", "postId": 6},
+    { "id": 17, "imageUrl": "https://anoopam.org/wp-content/uploads/2025/06/td-mogri-2025-jun-16-04.jpg","country": "India","state":"Vrundavan","lastUpdatedTimestamp":"12/06/2025", "postId": 6},
     { "id": 18, "imageUrl": "https://anoopam.org/wp-content/uploads/2025/06/td-mogri-2025-jun-16-05.jpg","country": "India","state":"Mogri","lastUpdatedTimestamp":"12/06/2025", "postId": 6}
   ],
   "profile": { "name": "typicode" }
